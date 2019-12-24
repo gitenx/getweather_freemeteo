@@ -4,4 +4,4 @@ How to use:
 - git clone 
 - cd getweather_freemeteo
 - pip install -r requirements.txt
-- python getweather.py
+- python get_weather.py

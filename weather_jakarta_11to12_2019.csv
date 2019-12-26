@@ -1,35 +1,4 @@
 date,mintemp,maxtemp,windspeed,weatherevent
-10/1/2019,24°C,35°C,24 Km/h,weather events not reported
-10/2/2019,26°C,35°C,N/A,weather events not reported
-10/3/2019,25°C,34°C,32 Km/h,weather events not reported
-10/4/2019,24°C,33°C,16 Km/h,weather events not reported
-10/5/2019,25°C,36°C,32 Km/h,weather events not reported
-10/6/2019,25°C,36°C,21 Km/h,weather events not reported
-10/7/2019,26°C,35°C,35 Km/h,weather events not reported
-10/8/2019,25°C,34°C,N/A,weather events not reported
-10/9/2019,25°C,34°C,24 Km/h,weather events not reported
-10/10/2019,25°C,33°C,N/A,weather events not reported
-10/11/2019,25°C,35°C,29 Km/h,weather events not reported
-10/12/2019,25°C,34°C,15 Km/h,weather events not reported
-10/13/2019,25°C,35°C,N/A,weather events not reported
-10/14/2019,26°C,35°C,21 Km/h,weather events not reported
-10/15/2019,24°C,34°C,22 Km/h,weather events not reported
-10/16/2019,25°C,33°C,21 Km/h,weather events not reported
-10/17/2019,25°C,34°C,22 Km/h,weather events not reported
-10/18/2019,25°C,33°C,13 Km/h,weather events not reported
-10/19/2019,25°C,35°C,28 Km/h,weather events not reported
-10/20/2019,24°C,35°C,21 Km/h,weather events not reported
-10/21/2019,25°C,37°C,32 Km/h,weather events not reported
-10/22/2019,25°C,38°C,32 Km/h,weather events not reported
-10/23/2019,26°C,37°C,34 Km/h,weather events not reported
-10/24/2019,26°C,35°C,15 Km/h,weather events not reported
-10/25/2019,26°C,34°C,22 Km/h,weather events not reported
-10/26/2019,25°C,35°C,N/A,weather events not reported
-10/27/2019,25°C,33°C,24 Km/h,ThunderstormRain
-10/28/2019,25°C,34°C,N/A,weather events not reported
-10/29/2019,24°C,33°C,21 Km/h,weather events not reported
-10/30/2019,26°C,34°C,13 Km/h,weather events not reported
-10/31/2019,27°C,35°C,16 Km/h,weather events not reported
 11/1/2019,24°C,34°C,26 Km/h,ThunderstormRain
 11/2/2019,25°C,34°C,32 Km/h,ThunderstormRain
 11/3/2019,25°C,34°C,N/A,ThunderstormRain
@@ -73,3 +42,6 @@ date,mintemp,maxtemp,windspeed,weatherevent
 12/19/2019,27°C,32°C,15 Km/h,weather events not reported
 12/20/2019,26°C,33°C,16 Km/h,Thunderstorm
 12/21/2019,26°C,33°C,N/A,weather events not reported
+12/22/2019,24°C,32°C,22 Km/h,ThunderstormRain
+12/23/2019,23°C,34°C,28 Km/h,ThunderstormRain
+12/24/2019,25°C,33°C,24 Km/h,ThunderstormRain

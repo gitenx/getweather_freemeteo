@@ -9,7 +9,6 @@ How to use:
 - python get_weather.py
 
 **UPDATE**
-- now can input different city
 - little fix
 
 Enjoy it.
